@@ -13,7 +13,7 @@ For private offers via the AWS Marketplace contact [Qumulo Sales](http://discove
 
 ## Usage
 The deployment guide and CloudFormation code are hosted by AWS.  Follow the link:
-[AWS Perma Link comming soon](./supplemental-docs/qumulo-cloud-q-architecture_diagram.png)
+[Qumulo Cloud Q Quick Start](https://fwd.aws/EXedJ?)
 
 Reference Architecture:
 ![Ref Arch](./supplemental-docs/qumulo-cloud-q-architecture_diagram.png)
