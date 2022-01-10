@@ -12,8 +12,9 @@ A subscription to an [AWS Marketplace](https://aws.amazon.com/marketplace/search
 For private offers via the AWS Marketplace contact [Qumulo Sales](http://discover.qumulo.com/cloud-calc-contact.html).
 
 ## Usage
-The deployment guide and CloudFormation code are hosted by AWS.  Follow the link:
-[Qumulo Cloud Q Quick Start](https://fwd.aws/EXedJ?)
+The deployment guide and CloudFormation code are hosted by AWS.  Links:
+* [Qumulo Cloud Q Quick Start landing page](https://aws.amazon.com/quickstart/architecture/qumulo-cloud-q/)
+* Skip the landing page and go straight to the [Qumulo Cloud Q Quick Start deployment guide](https://fwd.aws/EXedJ?)
 
 Reference Architecture:
 ![Ref Arch](./supplemental-docs/qumulo-cloud-q-architecture_diagram.png)
@@ -28,7 +29,7 @@ intended to be used by expert users only.
 
 ## Copyright
 
-Copyright © 2021 [Qumulo, Inc.](https://qumulo.com)
+Copyright © 2022 [Qumulo, Inc.](https://qumulo.com)
 
 ## License
 
@@ -38,7 +39,7 @@ See [LICENSE](LICENSE) for full details
 
     MIT License
     
-    Copyright (c) 2021 Qumulo, Inc.
+    Copyright (c) 2022 Qumulo, Inc.
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -65,4 +66,4 @@ All other trademarks referenced herein are the property of their respective owne
 ### Contributors
 
  - [Dack Busch](https://github.com/dackbusch)
- - [Gokul Kupparaj](https://github.com/dackbusch)
+ - [Gokul Kupparaj](https://github.com/gokulku)
