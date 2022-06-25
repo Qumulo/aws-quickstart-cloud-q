@@ -1,7 +1,7 @@
 [![Qumulo Logo](https://qumulo.com/wp-content/uploads/2021/06/CloudQ-Logo_OnLight.png)](http://qumulo.com)
 
 # aws-quickstart-cloud-q
-AWS CloudFormation templates hosted by AWS in regional Quick Start buckets to deploy a Qumulo cluster with one to 20 instances per the AWS Well Architected Framework.
+AWS CloudFormation templates hosted by AWS in regional Quick Start buckets to deploy a Qumulo cluster with 4 to 20 instances per the AWS Well Architected Framework.
 Supports usable capacities from 1TB to 6PB with all Qumulo Core features.
 
 ## Requirements
@@ -15,6 +15,7 @@ For private offers via the AWS Marketplace contact [Qumulo Sales](http://discove
 The deployment guide and CloudFormation code are hosted by AWS.  Links:
 * [Qumulo Cloud Q Quick Start landing page](https://aws.amazon.com/quickstart/architecture/qumulo-cloud-q/)
 * Skip the landing page and go straight to the [Qumulo Cloud Q Quick Start deployment guide](https://fwd.aws/EXedJ?)
+* The code hosted in this repository is for historical versions and supporting documents referenced by the AWS Quick Start.
 
 Reference Architecture:
 ![Ref Arch](./supplemental-docs/qumulo-cloud-q-architecture_diagram.png)
